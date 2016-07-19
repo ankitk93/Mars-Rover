@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/oak_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+<!-- From: file:/G:/Android_Projects/MarsRover/app/build/intermediates/exploded-aar/com.willowtreeapps/oak-library/1.3.7/res/layout/activity_fragment_host.xml -->
